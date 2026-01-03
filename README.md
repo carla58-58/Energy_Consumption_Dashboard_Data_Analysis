@@ -66,5 +66,3 @@ Analyze energy consumption patterns by consumption type, city, building, and tim
 📈 Interactive slicers/filters
 
 🗺️ Map visuals & drill-through
-
-📱 Fully responsive design
