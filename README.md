@@ -60,7 +60,11 @@ Analyze energy consumption patterns by consumption type, city, building, and tim
 ## 4. Technologies
 
 📊 Power BI (full dashboard)
+
 🔗 DAX measures & relationships
+
 📈 Interactive slicers/filters
+
 🗺️ Map visuals & drill-through
+
 📱 Fully responsive design
