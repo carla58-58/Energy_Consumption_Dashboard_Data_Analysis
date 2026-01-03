@@ -4,7 +4,7 @@
 Track energy usage across cities, buildings, consumption types (Water, Electricity, Gas)
 
 **View Live Dashboard Screenshots:**  
-![Overview](https://github.com/carla58-58/Energy_Consumption_Dashboard_Data_Analysis/blob/main/image1.jpg) ![Water](link-to-screenshot2) ![Electricity](link-to-screenshot3) ![Gas](link-to-screenshot4)
+![Overview](https://github.com/carla58-58/Energy_Consumption_Dashboard_Data_Analysis/blob/main/image1.jpg) ![Water](https://github.com/carla58-58/Energy_Consumption_Dashboard_Data_Analysis/blob/main/image2.jpg) ![Electricity](https://github.com/carla58-58/Energy_Consumption_Dashboard_Data_Analysis/blob/main/image3.jpg) ![Gas](https://github.com/carla58-58/Energy_Consumption_Dashboard_Data_Analysis/blob/main/image4.jpg)
 
 ## 1. Project Overview
 
