@@ -36,10 +36,10 @@ Analyze energy consumption patterns by consumption type, city, building, and tim
 ## 2. Dashboard Features
 
 **Interactive Filters:**
-- ✅ Consumption Type slicer (Water/Electricity/Gas)
-- ✅ City selector  
-- ✅ Building comparisons
-- ✅ Date range (monthly/quarterly)
+- Consumption Type slicer (Water/Electricity/Gas)
+- City selector  
+- Building comparisons
+- Date range (monthly/quarterly)
 
 **Key Visualizations:**
 - **KPIs**: Total consumption (4.06M), Total cost (70M)
